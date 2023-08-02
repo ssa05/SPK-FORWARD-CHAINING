@@ -1,0 +1,56 @@
+PERUSAHAAN:
+P01 PT.Wesclic Indonesia Neotech
+P02 PT.Marsindo Konsult Prima
+P03 PT.Xapiens Teknologi Indonesia
+P04 Mekari
+P05 PT.Beon Intermedia
+
+
+
+KUALIFIKASI:
+
+K13	Memahami  Flowchart
+K12	Mahasiswa minimal semester 3
+K11	Kemampuan berpikir dan memecahkan masalah secara praktis
+K10	Memahami dasar PHP,CSS Bootstrap, HTML, Javascript, database MySQL, GIT
+K09 Memahami konsep dan metodologi keamanan siber
+K08	Memahami kerangka kerja OSI (Open Systems Interconnection)
+K07 Memahami Windows Office dan MS Office
+K06	Memahami Pemograman MVC Framework, Laravel dan Phalcon 
+K05	Berpengalaman bidang keamanan siber atau security engineering 
+K04	Familiar dengan email Outlook dan aplikasi Microsoft Office
+K03	Memahami Operating Sistem Linux
+K02	Minimal menguasai 1 bahasa pemrograman
+K01	Memahami sistem operasi (OS), dan sistem jaringan
+
+
+
+RULE:
+P01	PT.Wesclic Indonesia Neotech
+K07 Memahami Windows Office dan MS Office
+K10	Memahami dasar PHP,CSS Bootstrap, HTML, Javascript, database MySQL, GIT
+K13 Memahami  Flowchart
+
+
+P02	PT.Marsindo Konsult Prima
+K06	Memahami Pemograman MVC Framework, Laravel dan Phalcon 
+K10	Memahami dasar PHP,CSS Bootstrap, HTML, Javascript, database MySQL, GIT
+K11	Kemampuan berpikir dan memecahkan masalah secara praktis.
+K12	Mahasiswa minimal semester 3
+
+P03	PT.Xapiens Teknologi Indonesia
+K01	Memahami sistem operasi (OS), dan sistem jaringan
+K05	Berpengalaman bidang keamanan siber atau security engineering 
+K08	Memahami kerangka kerja OSI (Open Systems Interconnection)
+
+
+P04	Mekari
+K02	Minimal menguasai 1 bahasa pemrograman
+K09 Memahami konsep dan metodologi keamanan siber
+K12	Mahasiswa minimal semester 3
+
+
+P05	PT.Beon Intermedia
+K03	Memahami Operating Sistem Linux
+K05	Berpengalaman bidang keamanan siber atau security engineering 
+K10	Memahami dasar PHP,CSS Bootstrap, HTML, Javascript, database MySQL, GIT

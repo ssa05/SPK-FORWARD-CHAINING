@@ -1,0 +1,11 @@
+Admin
+username: admin1
+password: admin1
+
+Pakar
+username: perusahaan
+password: perusahaan
+
+User
+username: user
+password: user
